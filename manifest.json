@@ -1,6 +1,6 @@
 {
   "hub": "TopaZ Creative Hub",
-  "updated": "2026-10-26T19:15:00Z",
+  "updated": "2026-10-26T19:25:00Z",
   "apps": [
     {
       "id": "EditingPro26",
@@ -9,8 +9,8 @@
       "description": "Montaż wideo z silnikiem GPU: 90+ efektów, 30+ przejść, Lumetri i szybki eksport sprzętowy H.264/H.265/AV1 do 8K.",
       "notes": "TopaZ Editing Pro 26.1 – duża aktualizacja wydajności i efektów\n\n★ PODGLĄD BEZ CZARNEGO EKRANU I ZACIĘĆ\n• Nowy silnik GPU (WebGL 2) – obraz, efekty, Lumetri i przejścia liczone na karcie graficznej\n• Każdy klip pamięta ostatnią klatkę, kolejny klip ładuje się z wyprzedzeniem\n• Płynne odtwarzanie – zegar czeka na dekoder zamiast przeskakiwać\n\n★ EKSPORT NAWET KILKADZIESIĄT RAZY SZYBSZY\n• Dekodowanie i kodowanie sprzętowe (AMD AMF, NVIDIA NVENC, Intel Quick Sync)\n• H.264, H.265 (HEVC) i AV1\n• Rozdzielczości: 720p, 1080p, 2K, 4K, 8K, pionowe 9:16, kwadrat, 21:9\n• 23,976–120 kl./s, VBR/CBR, 5 poziomów jakości\n• Gotowe ustawienia: YouTube, TikTok, Instagram, Facebook, X, Discord (dopasowanie do limitu MB)\n• Licznik kl./s i prędkości w oknie eksportu\n\n★ PANEL EFEKTÓW JAK W PREMIERE\n• 90+ efektów wideo w 15 folderach (VHS, glitch, green screen, rozmycia, zniekształcenia, stylizacja…)\n• 23 efekty audio (pogłos, kompresor, korektor, echo, chorus, efekt telefonu…)\n• 30+ przejść wideo i 3 przejścia audio\n• Ustawienia wstępne: Ken Burns, obraz w obrazie, pojawianie się, styl kinowy, stara taśma\n• Ulubione (★) i wyszukiwarka, klatki kluczowe dla każdego parametru\n\n★ PREFERENCJE (Ctrl+,)\n• Wybór GPU lub CPU i karty graficznej\n• Przydział pamięci RAM\n• Jakość podglądu: Pełna / ½ / ¼ / Auto, tryb 16-bit\n\n★ WYGODNIEJSZA EDYCJA\n• Ctrl+klik zaznacza pojedynczy klip – usuniesz samo audio bez wideo\n• „Usuń tylko audio / tylko wideo” w menu prawego przycisku\n• Obszary robocze: Edycja, Kolor, Efekty, Audio, Grafika\n• Poprawna obsługa pionowych filmów z telefonu\n\nAktualizacja zachowuje Twoje projekty i ustawienia.",
       "installer": "https://github.com/TopaZ-Hub/TopaZ-Editing-Pro/releases/download/TEP-26.1/TopaZ_Editing_Pro_26.1_Setup.exe",
-      "size": 116018483,
-      "sha256": "b76177f94e3e3dda649f2bc10b1578e3bd257fe2dbb055b72c3972af60150d0a"
+      "size": 116096925,
+      "sha256": "9ccce65f56323afc134a173b5cb1ca8cdf2fc059cdbd80bd0e17a24bd60a7932"
     }
   ]
 }
