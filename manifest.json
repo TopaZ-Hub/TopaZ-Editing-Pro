@@ -8,7 +8,7 @@
       "version": "26.0.0",
       "description": "Profesjonalny montaż wideo: oś czasu, efekty GPU, korekcja kolorów Lumetri i eksport H.264.",
       "notes": "Wersja 26.0.0",
-      "installer": "https://example.com/TopaZ_Editing_Pro_26_Setup.exe",
+      "installer": "https://github.com/TopaZ-Hub/TopaZ-Editing-Pro/releases/download/releases/TopaZ_Editing_Pro_26_Setup.exe",
       "size": 116018483,
       "sha256": "b76177f94e3e3dda649f2bc10b1578e3bd257fe2dbb055b72c3972af60150d0a"
     }
