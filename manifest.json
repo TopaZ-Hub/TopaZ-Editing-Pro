@@ -18,7 +18,7 @@
       "version": "26.1",
       "description": "Animacja, compositing i efekty wizualne jak w After Effects: warstwy 3D, wyrażenia, maski, wtyczki i podgląd RAM.",
       "notes": "TopaZ Effects 26 – pierwsze wydanie\n\n★ ANIMACJA JAK W AFTER EFFECTS\n• Kompozycje i prekompozycje, warstwy: wideo, obraz, tekst, kształty, jednolity kolor, null, kamera, światło, korekcyjna\n• Klatki kluczowe z łagodnym przejściem (F9), wstrzymaniem i ścieżką ruchu w podglądzie\n• Wyrażenia JavaScript: wiggle, loopOut, linear, ease, valueAtTime, thisComp.layer(…)\n• Rodzice warstw (pickwhip), maski piórem z wtapianiem, track matte (alfa / luminancja)\n• Warstwy 3D z kamerą, światłami i rozmyciem ruchu\n• Animatory tekstu (litera po literze), przycinanie ścieżek i powielacz w kształtach\n\n★ EFEKTY I WTYCZKI\n• 90+ efektów GPU i ustawienia wstępne animacji\n• Zakładka Wtyczki: własne efekty (GLSL), polecenia, panele i funkcje wyrażeń – z gotowymi przykładami\n\n★ SZYBKI PODGLĄD I RENDER\n• Podgląd RAM z zielonym paskiem – po pierwszym przebiegu płynnie w czasie rzeczywistym\n• Kolejka renderowania: MP4 H.264 / H.265 / AV1 (koder GPU), sekwencja PNG z alfą, WAV, do 8K\n• Preferencje jak w Editing: GPU/CPU, pamięć RAM, pamięć podglądu, 8/16 bpc\n\n★ DYNAMIC LINK\n• Kompozycje działają w TopaZ Editing Pro 26.2 i odświeżają się po zapisaniu",
-      "installer": "https://github.com/TopaZ-Hub/TopaZ-Editing-Pro/releases/download/TFX-26.1/TopaZ_Effects_26.1_Setup.exe",
+      "installer": "https://github.com/TopaZ-Hub/TopaZ-Effects/releases/download/Topaz-Effects-26.1/TopaZ_Effects_26.1_Setup.exe",
       "size": 115810367,
       "sha256": "da797829500567490449bc77b852660df9ccf9d80f83dc72bcf45f5187303879"
     }
